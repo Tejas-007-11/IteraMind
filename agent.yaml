@@ -1,0 +1,18 @@
+spec_version: "0.1.0"
+name: iteramind
+version: 0.1.0
+description: "AI agent that analyzes experiments, detects patterns, and recommends the next best experiment"
+model:
+  preferred: claude-sonnet-4-5-20250929
+
+skills:
+  - analyze-experiments
+  - detect-patterns
+  - suggest-next-run
+  - summarize-insights
+
+tags:
+  - machine-learning
+  - experimentation
+  - analytics
+  - hackathon

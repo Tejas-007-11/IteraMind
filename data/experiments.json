@@ -1,0 +1,39 @@
+{
+  "experiments": [
+    {
+      "id": "exp_1",
+      "learning_rate": 0.001,
+      "batch_size": 32,
+      "accuracy": 0.82,
+      "loss": 0.45
+    },
+    {
+      "id": "exp_2",
+      "learning_rate": 0.01,
+      "batch_size": 32,
+      "accuracy": 0.78,
+      "loss": 0.52
+    },
+    {
+      "id": "exp_3",
+      "learning_rate": 0.001,
+      "batch_size": 64,
+      "accuracy": 0.86,
+      "loss": 0.39
+    },
+    {
+      "id": "exp_4",
+      "learning_rate": 0.0005,
+      "batch_size": 64,
+      "accuracy": 0.88,
+      "loss": 0.35
+    },
+    {
+      "id": "exp_5",
+      "learning_rate": 0.01,
+      "batch_size": 128,
+      "accuracy": 0.74,
+      "loss": 0.60
+    }
+  ]
+}
